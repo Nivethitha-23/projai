@@ -1,0 +1,20 @@
+ [theme]
+    # Primary accent color
+    primaryColor = "#F96854"
+
+    # Background color of the main content area
+    backgroundColor = "#0A1C36"
+
+    # Background color of the sidebar and other components
+    secondaryBackgroundColor = "#1B2E4E"
+
+    # Text color
+    textColor = "#FFFFFF"
+
+    # Font style (optional)
+    # font = "sans serif"
+
+    # Button style
+    [server]
+    runOnSave = true
+    
